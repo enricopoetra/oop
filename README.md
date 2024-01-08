@@ -1,7 +1,7 @@
 # TugasAkhirOOP
 Restaurant Reservation
 
-Enrio Poetra - 2602054530
+Enrico Poetra - 2602054530
 
 James Santoso - 2602062381
 
